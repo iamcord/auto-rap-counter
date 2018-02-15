@@ -1,4 +1,3 @@
 var sys = require("sys")
 
-print("uh oh!")
-sys.stdout.flush()
+sys.stdout.write('Dive in')
