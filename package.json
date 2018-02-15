@@ -1,0 +1,14 @@
+{
+  "name": "BlingBot",
+  "version": "1.0",
+  "description": "BlingBot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@MightyLoopy",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
