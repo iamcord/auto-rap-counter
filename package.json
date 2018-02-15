@@ -2,9 +2,9 @@
   "name": "BlingBot",
   "version": "1.0",
   "description": "BlingBot",
-  "main": "bot.js",
+  "main": "bot.py",
   "scripts": {
-    "start": "node bot.js",
+    "start": "node bot.py",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "@MightyLoopy",
