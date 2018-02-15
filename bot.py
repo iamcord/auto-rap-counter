@@ -1,1 +1,1 @@
-print("abc")
+sys.stdout.write("hello!")
