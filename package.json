@@ -10,5 +10,6 @@
   "author": "@MightyLoopy",
   "license": "ISC",
   "dependencies": {
+    "request": "^2.83.0"
   }
 }
