@@ -10,6 +10,6 @@
   "author": "@MightyLoopy",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.83.0"
+    "got": "^8.1.0"
   }
 }
